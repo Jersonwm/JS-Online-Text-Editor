@@ -1,6 +1,6 @@
 # JS-Online-Text-Editor | Jerson Mejía
 
-This is an example of an online text editor designed with HTML, CSS and Java Script technologies.
+This is an example of an online text editor designed with HTML, CSS and JavaScript technologies.
 
 - This text editor is similar to microsoft office word❗️
 
